@@ -1,3 +1,3 @@
 # ListBox
-Project in Java. 
-The program calculates the income on the basis of revenue and expenses. It allows you to enter tax deductible costs in addition to revenue operations.
+Project in C#. 
+The program helps you to manage the tasks to accomplish for the current day.
