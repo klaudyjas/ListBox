@@ -1,0 +1,15 @@
+D:\Myron\BoxList\ListBox_FinalTask\bin\Debug\netcoreapp3.1\ListBox_FinalTask.exe
+D:\Myron\BoxList\ListBox_FinalTask\bin\Debug\netcoreapp3.1\ListBox_FinalTask.deps.json
+D:\Myron\BoxList\ListBox_FinalTask\bin\Debug\netcoreapp3.1\ListBox_FinalTask.runtimeconfig.json
+D:\Myron\BoxList\ListBox_FinalTask\bin\Debug\netcoreapp3.1\ListBox_FinalTask.runtimeconfig.dev.json
+D:\Myron\BoxList\ListBox_FinalTask\bin\Debug\netcoreapp3.1\ListBox_FinalTask.dll
+D:\Myron\BoxList\ListBox_FinalTask\bin\Debug\netcoreapp3.1\ListBox_FinalTask.pdb
+D:\Myron\BoxList\ListBox_FinalTask\obj\Debug\netcoreapp3.1\ListBox_FinalTask.csprojAssemblyReference.cache
+D:\Myron\BoxList\ListBox_FinalTask\obj\Debug\netcoreapp3.1\ListBox_FinalTask.Form1.resources
+D:\Myron\BoxList\ListBox_FinalTask\obj\Debug\netcoreapp3.1\ListBox_FinalTask.csproj.GenerateResource.cache
+D:\Myron\BoxList\ListBox_FinalTask\obj\Debug\netcoreapp3.1\ListBox_FinalTask.AssemblyInfoInputs.cache
+D:\Myron\BoxList\ListBox_FinalTask\obj\Debug\netcoreapp3.1\ListBox_FinalTask.AssemblyInfo.cs
+D:\Myron\BoxList\ListBox_FinalTask\obj\Debug\netcoreapp3.1\ListBox_FinalTask.csproj.CoreCompileInputs.cache
+D:\Myron\BoxList\ListBox_FinalTask\obj\Debug\netcoreapp3.1\ListBox_FinalTask.dll
+D:\Myron\BoxList\ListBox_FinalTask\obj\Debug\netcoreapp3.1\ListBox_FinalTask.pdb
+D:\Myron\BoxList\ListBox_FinalTask\obj\Debug\netcoreapp3.1\ListBox_FinalTask.genruntimeconfig.cache
